@@ -1,4 +1,4 @@
-# exportdxf.cpp
+# createdxf.cpp
 Crea un dibujo en un archivo de formato dxf, totalmente funcional, definiendo solo la seccion ENTITIES.
 ----------------------------------------------------------------------------
 Este código toma las bases mostradas en la publicación del sitio oficial de Autodesk Autocad.
